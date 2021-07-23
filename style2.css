@@ -1,0 +1,41 @@
+.r-section{
+   
+    width: 75%;
+    float: right;
+    padding: 0 20px ;
+    box-sizing: border-box;
+
+}
+.txt-form{
+    text-transform: capitalize;
+
+}
+.r-section .heading{
+width:100%;
+border-bottom: 1px solid gray;
+padding: 10px 0;
+font-size: 20px;
+}
+label{
+font-weight: 700;
+font-size: 15px;
+margin-bottom: 5px;
+display: block;
+width: 100%;
+padding: 5px 0;
+}
+input[type="text"]{
+font-weight: 700;
+font-size: 15px;
+margin-bottom: 10px;
+display: block;
+width: 100%;
+padding: 5px 0;
+}
+.btn{
+background-color: #03063e!important;
+color: white!important;
+}
+section{
+margin-bottom: 20px;
+}
